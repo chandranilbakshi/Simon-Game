@@ -13,3 +13,4 @@ Just open the HTML file in any browser (Make sure all the other files are presen
 
 -If you fail to repeat a sequence exactly, Simon responds with a "RAZZ" sound. This means you've lost, the sequence of signals ends and you have to start the game all over again.
 
+![image](https://github.com/chandranilbakshi/Simon-Game/assets/139606982/98de27de-9856-43fd-ab9f-fc51ae209961)
